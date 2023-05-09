@@ -10,7 +10,7 @@
 - <b>Deep learning</b>
   - [EMNIST Letters Classification using a Hopfield Network](https://github.com/tamirshoresh/MNIST-Letter-Classification-Hopfield.git)
 - <b>Spark & Kafka</b>
-  - [Real-Time Forecasting Pipeline using Spark & Kafka](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Real-Time Forecasting Pipeline using Spark & Kafka](https://github.com/tamirshoresh/Spark-and-Kafka-Forecasting-Pipeline.git)
 
 
 
