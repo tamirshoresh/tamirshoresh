@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1>Hi, I'm Tamir! <br/>
 
-<!--
-**tamirshoresh/tamirshoresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<h2>👨‍💻 Data Science & Deep Learning Projects:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>Medical Signal Processing</b>
+  - [Noise Reduction from an Acoustic Signature of a Total Hip Arthroplasty (THA)](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Natural Language Processing (NLP)</b>
+  - [BERT vs. ELMO: a Comparative Study Using the IMDb Reviews Dataset](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Deep learning</b>
+  - [EMNIST Letters Classification using a Hopfield Network](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Spark & Kafka</b>
+  - [Real-Time Forecasting Pipeline using Spark & Kafka](https://github.com/joshmadakor1/Algorithms-Practice)
+
+
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[facebook]: https://www.facebook.com/tamir.shoresh?mibextid=ZbWKwL
+[instagram]: https://instagram.com/tamir_shoresh?igshid=ZGUzMzM3NWJiOQ==
+[linkedin]: https://www.linkedin.com/in/tamir-shoresh-931076209
+
