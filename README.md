@@ -13,6 +13,8 @@
   - [BERT vs. ELMO: a Comparative Study Using the IMDb Reviews Dataset](https://github.com/tamirshoresh/Natural-Language-Processing-NLP.git)
 - <b>Spark & Kafka</b>
   - [Real-Time Forecasting Pipeline using Spark & Kafka](https://github.com/tamirshoresh/Spark-and-Kafka-Forecasting-Pipeline.git)
+- <b>GUI development</b>
+  - [KIRBY: An Antenna Far-Field Pattern Visualization Tool](https://github.com/tamirshoresh/KIRBY.git)
 
 
 <h2> 🤳 Connect with me:</h2>
