@@ -7,7 +7,7 @@
   - [Noise Reduction from an Acoustic Signature of a Total Hip Arthroplasty (THA)](https://github.com/tamirshoresh/Medical-Signal-Processing.git)
 - <b>Natural Language Processing (NLP)</b>
   - [BERT vs. ELMO: a Comparative Study Using the IMDb Reviews Dataset](https://github.com/tamirshoresh/Natural-Language-Processing-NLP.git)
-- <b>Deep learning</b>
+- <b>Deep Learning</b>
   - [EMNIST Letters Classification using a Hopfield Network](https://github.com/tamirshoresh/MNIST-Letter-Classification-Hopfield.git)
 - <b>Spark & Kafka</b>
   - [Real-Time Forecasting Pipeline using Spark & Kafka](https://github.com/tamirshoresh/Spark-and-Kafka-Forecasting-Pipeline.git)
