@@ -1,7 +1,7 @@
 <h1>Hi, I'm Tamir! <br/>
 
 
-<h2>👨‍💻 Data Science & Deep Learning Projects:</h2>
+<h2>👨‍💻 Research & Coding Projects:</h2>
 
 - <b>Medical Signal Processing</b>
   - [Noise Reduction from an Acoustic Signature of a Total Hip Arthroplasty (THA)](https://github.com/tamirshoresh/Medical-Signal-Processing.git)
