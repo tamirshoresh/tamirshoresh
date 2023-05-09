@@ -8,7 +8,7 @@
 - <b>Natural Language Processing (NLP)</b>
   - [BERT vs. ELMO: a Comparative Study Using the IMDb Reviews Dataset](https://github.com/tamirshoresh/Natural-Language-Processing-NLP.git)
 - <b>Deep learning</b>
-  - [EMNIST Letters Classification using a Hopfield Network](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [EMNIST Letters Classification using a Hopfield Network](https://github.com/tamirshoresh/MNIST-Letter-Classification-Hopfield.git)
 - <b>Spark & Kafka</b>
   - [Real-Time Forecasting Pipeline using Spark & Kafka](https://github.com/joshmadakor1/Algorithms-Practice)
 
