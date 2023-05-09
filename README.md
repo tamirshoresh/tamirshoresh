@@ -6,7 +6,7 @@
 - <b>Medical Signal Processing</b>
   - [Noise Reduction from an Acoustic Signature of a Total Hip Arthroplasty (THA)](https://github.com/tamirshoresh/Medical-Signal-Processing.git)
 - <b>Natural Language Processing (NLP)</b>
-  - [BERT vs. ELMO: a Comparative Study Using the IMDb Reviews Dataset](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [BERT vs. ELMO: a Comparative Study Using the IMDb Reviews Dataset](https://github.com/tamirshoresh/Natural-Language-Processing-NLP.git)
 - <b>Deep learning</b>
   - [EMNIST Letters Classification using a Hopfield Network](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Spark & Kafka</b>
