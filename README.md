@@ -4,7 +4,7 @@
 <h2>👨‍💻 Data Science & Deep Learning Projects:</h2>
 
 - <b>Medical Signal Processing</b>
-  - [Noise Reduction from an Acoustic Signature of a Total Hip Arthroplasty (THA)](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Noise Reduction from an Acoustic Signature of a Total Hip Arthroplasty (THA)](https://github.com/tamirshoresh/Medical-Signal-Processing.git)
 - <b>Natural Language Processing (NLP)</b>
   - [BERT vs. ELMO: a Comparative Study Using the IMDb Reviews Dataset](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Deep learning</b>
