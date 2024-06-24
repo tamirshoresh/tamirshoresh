@@ -3,11 +3,11 @@
 
 <h2>👨‍💻 Research & Coding Projects:</h2>
 
-- <b>Medical Signal Processing</b>
+- <b>Signal Processing</b>
   - [Noise Reduction from an Acoustic Signature of a Total Hip Arthroplasty (THA)](https://github.com/tamirshoresh/Medical-Signal-Processing.git)
-- <b>Machine Learning</b>
+- <b>Classic Machine Learning</b>
   - [Forecasting the Behavior of an Optic Fiber using ML and Telemetry Data](https://github.com/tamirshoresh/Optic-Fiber-ML.git)
-- <b>Deep Learning</b>
+- <b>Computer Vision with DL</b>
   - [Detection of Root-Knot Nematodes (RKN) in Tomatoe Roots](https://github.com/tamirshoresh/Nematode_detection)
   - [EMNIST Letters Classification using a Hopfield Network](https://github.com/tamirshoresh/MNIST-Letter-Classification-Hopfield.git)
 - <b>Natural Language Processing (NLP)</b>
