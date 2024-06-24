@@ -26,5 +26,5 @@
 
 [facebook]: https://www.facebook.com/tamir.shoresh?mibextid=ZbWKwL
 [instagram]: https://instagram.com/tamir_shoresh?igshid=ZGUzMzM3NWJiOQ==
-[linkedin]: https://www.linkedin.com/in/tamir-shoresh-931076209
+[linkedin]: https://www.linkedin.com/in/tamir-shoresh
 
