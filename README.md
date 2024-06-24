@@ -8,6 +8,7 @@
 - <b>Machine Learning</b>
   - [Forecasting the Behavior of an Optic Fiber using ML and Telemetry Data](https://github.com/tamirshoresh/Optic-Fiber-ML.git)
 - <b>Deep Learning</b>
+  - [Detection of Root-Knot Nematodes (RKN) in Tomatoe Roots](https://github.com/tamirshoresh/Nematode_detection)
   - [EMNIST Letters Classification using a Hopfield Network](https://github.com/tamirshoresh/MNIST-Letter-Classification-Hopfield.git)
 - <b>Natural Language Processing (NLP)</b>
   - [BERT vs. ELMO: a Comparative Study Using the IMDb Reviews Dataset](https://github.com/tamirshoresh/Natural-Language-Processing-NLP.git)
